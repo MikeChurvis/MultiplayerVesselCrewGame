@@ -1,6 +1,6 @@
 # Multiplayer Vessel Crew Game
 
-(a.k.a. FTL but its an MMO browser game)
+(a.k.a. FTL but its a multiplayer browser game)
 
 Collaborators:
 - @MikeChurvis
@@ -8,14 +8,32 @@ Collaborators:
 
 ## Concept
 
-It's like FTL but you play as a crew member.
+It's like FTL but you play as a crew member. Guns of Icarus / Sea of Theives, but 2D/2.5D and you can play in your browser.
 
 Might be set in space, but that trope is quickly becoming cliche. A fantasy airship sim might be fun.
 
-## Architecture
+[[Architecture]]
 
-There will be browser clients that connect to a web server. Beyond this, I do not yet know.
+[[Musings]]
 
-## Musings
+## The Plan
 
-I haven't touched game development since 2016. I worked with Unity (C#) back then. In the time since, my entire coding ecosystem has changed; my languages now are Python and Typescript (though I will happily learn Rust if this game demands it), and my wheelhouse is the full stack of web tech. I have much to learn, unlearn, and relearn.
+We'll approach this project in stages:
+
+Stage 1:
+- Bring ourselves up-to-speed in the language.
+- Assess toolchain candidates. Make a toy game from a tutorial in each toolchain you're assessing. Compare the dev experience. Decide on a toolchain.
+- Iterate a proof-of-concept for this game. This may require developing intermediate proofs of concept.
+
+Stage 1 ends when we have a playable proof-of-concept in hand, created using the toolchain we will use for the remainder of the project.
+
+Stage 2:
+- Sketch the user model and networking flowchart.
+- Formalize the game's design document.
+- Assess operational costs and business model.
+- Distill the design document into a technical specification for Alpha 1.
+- Draft and review contracts, if applicable.
+
+Stage 2 ends when we have marching orders for developing the first alpha build, and our bases are covered, legally speaking.
+
+Stage 3: develop the alpha.
