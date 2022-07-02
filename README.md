@@ -3,8 +3,8 @@
 (a.k.a. FTL but its a multiplayer browser game)
 
 Collaborators:
-- @MikeChurvis
-- @KhaPeterK
+- [Mike Churvis](mikechurvis.com)
+- [Peter Kha](github.com/KhaPeterK)
 
 ## Concept
 
@@ -12,9 +12,9 @@ It's like FTL but you play as a crew member. Guns of Icarus / Sea of Theives, bu
 
 Might be set in space, but that trope is quickly becoming cliche. A fantasy airship sim might be fun.
 
-[[Architecture]]
+[Architecture](docs/Architecture.md)
 
-[[Musings]]
+[Musings](docs/Musings)
 
 ## The Plan
 
