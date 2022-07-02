@@ -14,15 +14,15 @@ Might be set in space, but that trope is quickly becoming cliche. A fantasy airs
 
 [Architecture](docs/Architecture.md)
 
-[Musings](docs/Musings)
+[Musings](docs/Musings.md)
 
 ## The Plan
 
 We'll approach this project in stages:
 
 Stage 1:
-- Bring ourselves up-to-speed in the language.
-- Assess toolchain candidates. Make a toy game from a tutorial in each toolchain you're assessing. Compare the dev experience. Decide on a toolchain.
+- Assess toolchain candidates. Make a toy game from a tutorial in each toolchain you're assessing. 
+- Compare the dev experience and growth prospects. Decide on a toolchain.
 - Iterate a proof-of-concept for this game. This may require developing intermediate proofs of concept.
 
 Stage 1 ends when we have a playable proof-of-concept in hand, created using the toolchain we will use for the remainder of the project.
