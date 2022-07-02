@@ -3,8 +3,8 @@
 (a.k.a. FTL but its a multiplayer browser game)
 
 Collaborators:
-- [Mike Churvis](mikechurvis.com)
-- [Peter Kha](github.com/KhaPeterK)
+- [Mike Churvis](https://mikechurvis.com)
+- [Peter Kha](https://github.com/KhaPeterK)
 
 ## Concept
 
