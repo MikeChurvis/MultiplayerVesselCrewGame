@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
+            "file": "docs/Toolchain Candidates.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/Toolchain Candidates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,7 @@
   },
   "active": "31fff9d26aec7224",
   "lastOpenFiles": [
+    "docs/Toolchain Candidates.md",
     "README.md",
     "docs/Art Direction.md",
     "docs/Musings.md",
